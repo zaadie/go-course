@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func fib(n int) {
+func Fib(n int) {
 	// Start index
 	start := 1
 
@@ -24,5 +24,5 @@ func fib(n int) {
 
 func main() {
 
-	fib(7)
+	Fib(7)
 }
